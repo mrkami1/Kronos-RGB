@@ -9,3 +9,10 @@ Easy to use RGB software that is designed to control addressable RGB LEDs such a
 ## Software Requirements
 1. Microsoft .NET Framework 4.7.2 or later
 2. The required drivers for your arduino
+
+## Installation
+1. Run Kronos RGB Setup
+2. Finished!
+
+### Notes
+This software is currently only supported on Windows systems.
