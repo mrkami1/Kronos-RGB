@@ -1,0 +1,10 @@
+C:\Users\Mashhood\source\repos\RGB Controller\bin\Debug\RGB Controller.exe.config
+C:\Users\Mashhood\source\repos\RGB Controller\bin\Debug\RGB Controller.exe
+C:\Users\Mashhood\source\repos\RGB Controller\bin\Debug\RGB Controller.pdb
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB Controller.csprojAssemblyReference.cache
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.Properties.Resources.resources
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB Controller.csproj.GenerateResource.cache
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB Controller.csproj.CoreCompileInputs.cache
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB Controller.exe
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB Controller.pdb
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.Kami_RGB.resources

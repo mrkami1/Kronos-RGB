@@ -1,0 +1,27 @@
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\Kronos RGB.csprojAssemblyReference.cache
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.MainForm.resources
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.Properties.Resources.resources
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\Kronos RGB.csproj.GenerateResource.cache
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB Controller.exe
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB Controller.pdb
+C:\Users\Mashhood\source\repos\RGB Controller\bin\Debug\RGB Controller.exe.config
+C:\Users\Mashhood\source\repos\RGB Controller\bin\Debug\RGB Controller.exe
+C:\Users\Mashhood\source\repos\RGB Controller\bin\Debug\RGB Controller.pdb
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.AlternateForm.resources
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.VisorForm.resources
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.BreathingForm.resources
+C:\Users\Mashhood\source\repos\RGB Controller\obj\Debug\RGB_Controller.DeviceSelectForm.resources
+C:\Users\mashhood\source\RGB Controller\bin\Debug\RGB Controller.exe.config
+C:\Users\mashhood\source\RGB Controller\bin\Debug\RGB Controller.exe
+C:\Users\mashhood\source\RGB Controller\bin\Debug\RGB Controller.pdb
+C:\Users\mashhood\source\RGB Controller\obj\Debug\Kronos RGB.csprojAssemblyReference.cache
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB_Controller.DeviceSelectForm.resources
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB_Controller.AlternateForm.resources
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB_Controller.BreathingForm.resources
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB_Controller.VisorForm.resources
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB_Controller.MainForm.resources
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB_Controller.Properties.Resources.resources
+C:\Users\mashhood\source\RGB Controller\obj\Debug\Kronos RGB.csproj.GenerateResource.cache
+C:\Users\mashhood\source\RGB Controller\obj\Debug\Kronos RGB.csproj.CoreCompileInputs.cache
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB Controller.exe
+C:\Users\mashhood\source\RGB Controller\obj\Debug\RGB Controller.pdb
